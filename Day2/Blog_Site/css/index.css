@@ -1,0 +1,27 @@
+/* Header */
+.header-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /* margin-top: 10px; */
+    padding: 5%;
+    background-color: rgb(180, 82, 82);
+}
+/* Logo */
+.image-style{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    /* margin-left: px; */
+    padding-left: 10px;
+}
+/* Links */
+nav>li{
+    list-style-type:none;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    
+}
